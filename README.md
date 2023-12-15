@@ -14,10 +14,20 @@ ArduPilot firmwares for Align AP3 and AP5 Autopilots
 1. Port to ArduPilot 4.4.0
 
 ## Release notes - Rover
+### Version 0.1.6
+1. Bug fix: can't configure GPS if rover startup armed, add script `gps_config` to configure GPS at first boot
+
 ### Version 0.1.5
 1. Change default parameters for GA22
 1. Don't require arming
 1. Add `set_home` script to use RC channel change to set home
+
+### Version 0.1.4
+1. Fix `GA22_engine` script
+
+### Version 0.1.3
+1. Change GA22 default parameter: FS_ACTION 1
+1. Update script `blade_distance`
 
 ### Version 0.1.2
 1. Implementation of CRUISE mode (cruise control)
