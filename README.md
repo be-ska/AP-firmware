@@ -14,6 +14,11 @@ ArduPilot firmwares for Align AP3 and AP5 Autopilots
 1. Port to ArduPilot 4.4.0
 
 ## Release notes - Rover
+### Version 0.1.5
+1. Change default parameters for GA22
+1. Don't require arming
+1. Add `set_home` script to use RC channel change to set home
+
 ### Version 0.1.2
 1. Implementation of CRUISE mode (cruise control)
 
