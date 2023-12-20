@@ -14,6 +14,10 @@ ArduPilot firmwares for Align AP3 and AP5 Autopilots
 1. Port to ArduPilot 4.4.0
 
 ## Release notes - Rover
+### Version 0.1.7
+1. Improve navigation controller to achieve smoother pivot turn
+1. Update GA22 default parameters
+
 ### Version 0.1.6
 1. Bug fix: can't configure GPS if rover startup armed, add script `gps_config` to configure GPS at first boot
 
