@@ -2,6 +2,11 @@
 ArduPilot firmwares for Align AP3 and AP5 Autopilots
 
 ## Release notes - Copter and Plane
+### Version 0.2.4
+1. Add hwdef for AP3 installed in MT622 and default parameter file
+1. Add Sprayer soft stop functionality to comply with M6T22 hardware
+1. Add Tools for parameter manipulation
+
 ### Version 0.2.3
 1. Add hwdef for AP5 (3 IMUs)
 1. Add hwdef for embedding parameters and scripts to M460 AP3/AP5
