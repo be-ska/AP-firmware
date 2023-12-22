@@ -19,6 +19,10 @@ ArduPilot firmwares for Align AP3 and AP5 Autopilots
 1. Port to ArduPilot 4.4.0
 
 ## Release notes - Rover
+### Version 1.0.0 - RELEASE
+1. add GA22 hardware definition and embedded scripts
+1. fix failsafe parameters: HOLD mode
+
 ### Version 0.1.7
 1. Improve navigation controller to achieve smoother pivot turn
 1. Update GA22 default parameters
